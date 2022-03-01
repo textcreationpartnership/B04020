@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spectators, make a ring, that you may see the fatal battle which is like to be fought by two pow'rfull combatants</title>
+            <author>Lichtenberger, Johannes, 15th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04020</idno>
+            <idno type="STC">Wing L1971A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[208]</idno>
+            <idno type="EEBO-CITATION">99885037</idno>
+            <idno type="PROQUEST">ocm99885037</idno>
+            <idno type="VID">182877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182877)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[209])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Spectators, make a ring, that you may see the fatal battle which is like to be fought by two pow'rfull combatants</title>
+                  <author>Lichtenberger, Johannes, 15th cent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by Henry Brome at the Gun in Ivy-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first three lines of text.</note>
+                  <note>Verse: "Spectators, make a ring, that you may see ..."</note>
+                  <note>"Imprimatur, Jan. 21. 1663. Roger L'estrange."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182877:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>Pectators, make a Ring, that you may ſee</l>
+               <l>The fatal Battle which is like to be</l>
+               <l>Fought by two pow'rfull Combatants: One's nam'd</l>
+               <l>GALLU<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for Courage generally fam'd;</l>
+               <l>Yet not ſo Valiant as he'ld have men think,</l>
+               <l>But has (what makes men Valiant) ſtore of Chinck.</l>
+            </lg>
+            <lg>
+               <l>T' other is CAPO call'd, who doth ſupply</l>
+               <l>His want of Courage by his Policy:</l>
+               <l>By plotting and contriving he ſubſiſts,</l>
+               <l>And does with Brains what tother would with Fiſts;</l>
+               <l>Works under-hand, and goes to undermine:</l>
+               <l>Both in their ſeveral wayes in Battle joyn.</l>
+            </lg>
+            <lg>
+               <l>GALLUS doth ſtrut, and clap his wings and crow,</l>
+               <l>While CAPO laughs at that vain noiſe and ſhow:</l>
+               <l>What the great Quarrel is, muſt not be known,</l>
+               <l>But is reſerv'd till one be overthrown:</l>
+               <l>Both make great preparations for a Fight,</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd he that Conquers, all believe has Right.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>APO has been well cram'd, and liv'd in State,</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd was become a mighty Potentate;</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo Keyes to open and to ſhut he bears,</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd no his head a Triple Crown he wears;</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd had a mind to Rule the World, as though</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll men were govern'd by meer pomp and ſhow.</l>
+            </lg>
+            <lg>
+               <l>GALLUS repines at this; Muſt I (ſayes he)</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear but one Crown, while he droops under three?</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Keyes may make a noiſe, and keep a ſtir</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong eaſie ſouls, but he has ne're a Spur:</l>
+               <l>
+                  <gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le ſpoile his Pageantry, and make him know,</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat ſince he cannot Fight, he ſhall not Crow.</l>
+            </lg>
+            <lg>
+               <l>But now GERMANUS comes to interpoſe,</l>
+               <l>Thinking the Quarrel would prove dangerous;</l>
+               <l>And while thoſe two do to Contention fall,</l>
+               <l>Their ſtrife might prove the ruine of them all;</l>
+               <l>Both being ſo powerfull, 'tis hardly known</l>
+               <l>Which ſide may prove moſt ſafe for him to own;</l>
+            </lg>
+            <lg>
+               <l>Mean time the MAHUMETAN Cook ſtands by</l>
+               <l>With ſharpned Semiter, and watchfull eye;</l>
+               <l>Let them fight on (ſayes he) ſo both will be,</l>
+               <l>By their inteſtine War a Feaſt for me:</l>
+               <l>This is my time to feed and thrive, when they</l>
+               <l>Contend ſo fiercely which ſhall be my prey.</l>
+            </lg>
+            <lg>
+               <l>This makes good Gelly, t' other's tender meat;</l>
+               <l>When both drop in one diſh, who would not eat?</l>
+               <l>Their Quarrel is for Humour and Opinion,</l>
+               <l>But my deſign is Riches and Dominion;</l>
+               <l>While both to be Victorions do aſpire,</l>
+               <l>I uſe their ſparks to ſet the World on fire.</l>
+            </lg>
+            <div type="conclusion">
+               <head>The CONCL<g ref="char:V">Ʋ</g>SION.</head>
+               <lg>
+                  <l>WHen Peace and Plenty make men proud, and they</l>
+                  <l>Aſpire to Rule, whoſe part is to Obey:</l>
+                  <l>When each man has a Hereſie of's own,</l>
+                  <l>And moſt pretend Religion, but uſe none:</l>
+                  <l>When Laws are boldly broke, and Love that binds</l>
+                  <l>Men more then Laws, is fled from peoples minds:</l>
+               </lg>
+               <lg>
+                  <l>Then muſt deſtruction on that Nation come,</l>
+                  <l>And MAHUMET give Laws to CHRISTENDOME.</l>
+               </lg>
+            </div>
+         </div>
+         <div xml:lang="fre" type="poem">
+            <head>l' Autheur.</head>
+            <l>CHers ſpectateurs approchez</l>
+            <l>Et ce combat regardez:</l>
+            <l>Ou le cocq ſaute de furie</l>
+            <l>De quoi le chapon ſe rie;</l>
+            <l>C' eſt pourquoi il vaudra mieux,</l>
+            <l>De les accorder tous deux.</l>
+            <div n="A" type="part">
+               <head>A <hi>Le Chapon Romain.</hi>
+               </head>
+               <l>Le chapon Romain voyant,</l>
+               <l>Le cocq ainſi l'eſtancant.</l>
+               <l>Au combat pour reſiſter</l>
+               <l>Hardiſe va preparer,</l>
+               <l>Et excite ſa chaleur</l>
+               <l>Pour demonſtrer ſa valeur.</l>
+               <l>Mais ie crains que ſon effort</l>
+               <l>Ne le gradera de mort,</l>
+               <l>Car le cocq de grand rudeſſe,</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e pourchaſſera ſans ceſſe,</l>
+               <l>De ſes ailles le frappant</l>
+               <l>Et de ſon bec tres picquant.</l>
+            </div>
+            <div n="B" type="part">
+               <head>B <hi>Le Cocq Francoys.</hi>
+               </head>
+               <l>Le cocq fort animé d'ire,</l>
+               <l>Contre le chapon ſe vire,</l>
+               <l>Pour lui fair ſentir a Pheur</l>
+               <l>Les effects de ſa fureur:</l>
+               <l>Et ſes ergots il aiguiſe</l>
+               <l>Pour finit ſon entrepriſe.</l>
+               <l>Car il fait tout ſon effort,</l>
+               <l>Pour bien toſt le metree a mort.</l>
+               <l>Deſes ailles il debat,</l>
+               <l>Pour l'eſchauffer au combat,</l>
+               <l>Et levant ſa creſt' il lance</l>
+               <l>Ses ergots dedans ſa Panſe.</l>
+            </div>
+            <div n="C" type="part">
+               <head>C <hi>Le Mediateur.</hi>
+               </head>
+               <l>Meſſieurs qui de vous Poura,</l>
+               <l>Die ce qu'il en adviendra</l>
+               <l>Veu qu'ils ſont ſi eſchauffez,</l>
+               <l>Entierement animez:</l>
+               <l>Ils ſe perdroyent bien tout deux,</l>
+               <l>C'eſt pourquoi il vaudra mieux</l>
+               <l>Que toſt y remediant,</l>
+               <l>On aille les accordant.</l>
+               <l>Ce coup nous ſeroit fatal;</l>
+               <l>Et nous touche en general,</l>
+               <l>Car leur perte accablera</l>
+               <l>Tout, &amp; a rien nous rendra.</l>
+            </div>
+            <div n="D" type="part">
+               <head>D <hi>Le cuiſinier.</hi>
+               </head>
+               <l>Mais voici le cuiſinier,</l>
+               <l>Regardant ce combat fier,</l>
+               <l>Qui met la main aux couſteaux,</l>
+               <l>Pour leur faire ſentier des maux,</l>
+               <l>Car ſi le cocq vehement,</l>
+               <l>Suit le chapon ardement,</l>
+               <l>Bien toſt il l'aterrera,</l>
+               <l>Ou en ſuite le mettra,</l>
+               <l>Puis ce cuiſinier ruſé,</l>
+               <l>Le voyant ſi bien graislé</l>
+               <l>De ſes mains le ravira</l>
+               <l>Si le bon Dieu n'empeſchera:</l>
+               <l>Les Poets ont beau de feindre</l>
+               <l>Des trois Furies, &amp; les depeindre</l>
+               <l>Ayants les cheveux de vipere,</l>
+               <l>Et allumants le feu de guerre;</l>
+               <l>Voicy la Megere veritable,</l>
+               <l>Un boute feu plus effroyable,</l>
+               <l>Ce Turc vray Prince des Tenebres</l>
+               <l>Jettant ſur nous flames funebres,</l>
+               <l>S'en va offrir a Mahomet</l>
+               <l>Son Dieu d' Enfer &amp; faux Prophet</l>
+               <l>Un holocauſt de Germanie</l>
+               <l>Et puis de toute la Chreſtienté.</l>
+               <l>O la choſe digne de pitié</l>
+               <l>Qu'il Pere d' Egliſe &amp; Fils aiſneé,</l>
+               <l>En fin tous deux, le Pape &amp; Roy,</l>
+               <l>A l'Infidel viendront en proy!</l>
+            </div>
+         </div>
+         <div type="to_the_reader">
+            <head>Gentle Readers and Spectators of this Combat,</head>
+            <p>MY deſign is not to amuſe my ſelf, or be ſo bold at to tax the Actions of theſe two Great Perſo<g ref="char:EOLhyphen"/>nages, but only by this Emblem to let you ſee what that Learned Carthuſian Fryer <hi>JOHN LICH TEN<g ref="char:EOLhyphen"/>BERG,</hi> in his Magical predicti<g ref="char:EOLhyphen"/>on, hath left in writing above two hundred years agoe, wherein be ſpeaks of a certain Prince in the Field of the Flower de Luce, that be ſhould be the Greateſt Monarch in <hi>EUROPE.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON Printed for the Author, and are to be ſold by <hi>Henry Brome</hi> at the Gun in <hi>Ivy-Lane,</hi> 1663.</p>
+         </div>
+         <div type="license">
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 21. 1663.</date>
+               </dateline> 
+               <signed>Roger L'eſtrange.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
